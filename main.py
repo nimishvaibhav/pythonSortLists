@@ -1,5 +1,4 @@
-
-
+# Simple python program to sort number in a list.
 
 def sort_list():
     unsortedlist = [4, 5, 0, 9, 2, 8, 1]
